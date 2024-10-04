@@ -1,0 +1,29 @@
+body {
+    font-family: Helvetica, sans-serif;
+}
+
+.main {
+    color: darkred;
+    text-align: center;
+}
+
+.picture {
+    width: 250px;
+}
+
+h3 {
+    color: darkgreen;
+}
+
+.steps {
+    
+}
+
+.toc,
+.ingredients {
+    list-style-type: none;
+}
+
+li {
+    margin-bottom: 0.5em;
+}
